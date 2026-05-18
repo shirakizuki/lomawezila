@@ -1,52 +1,84 @@
-<h2 align="left">Hi 👋! I'm Szemaki!</h2>
+# Szemaki
+**Cebu, Philippines**  
+`Software Engineer` `SAP ABAP` `AI Engineer`
 
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="300" src="https://images7.alphacoders.com/138/1380154.png"  />
-</div>
-
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shirakizuki&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shirakizuki&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="300" src="https://images7.alphacoders.com/138/1380154.png" />
 </div>
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
+## About
+
+Computer Science graduate with hands-on experience across the full software development lifecycle — from requirements gathering to deployment. I bring a disciplined, product-first mindset to every project, building efficient and scalable solutions grounded in real business needs.
+
+My background spans enterprise systems (SAP ABAP), modern web and mobile development, and an emerging focus on AI engineering. I thrive at the intersection of clean code and practical impact — always aligning technical decisions with business goals, and continuously pushing to grow professionally.
+
+---
+
+## Tech Stack
+
+**Languages**  
+`C#` `Python` `Java` `ABAP`
+
+**Frameworks & Tools**  
+`.NET Framework` `React Native` `Django` `Figma` `Git` `GitHub`
+
+**DevOps & Cloud**  
+`AWS` `Docker`
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=shirakizuki&theme=default&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shirakizuki&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shirakizuki&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shirakizuki&theme=default)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+</div>
+
+---
+
+## Currently
+
+- 🔭 Building at the intersection of enterprise systems and modern AI tooling
+- 📖 Deepening expertise in machine learning pipelines and cloud-native architecture
+- 🤝 Open to collaborating on meaningful, well-scoped projects
+
+---
+
+## When I'm Not Coding
+
+Sometimes I unplug and game. I go by **Czeah** on Steam — feel free to add me if you want to squad up or just talk games.
+
+**Currently playing**
+
+[![Wuthering Waves](https://img.shields.io/badge/Wuthering_Waves-playing-4a90a4?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/3513350)
+[![CS2](https://img.shields.io/badge/Counter--Strike_2-playing-4a90a4?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/730)
+[![Settlement Survival](https://img.shields.io/badge/Settlement_Survival-playing-4a90a4?style=flat-square&logo=steam&logoColor=white)](https://store.steampowered.com/app/1509510)
+
+> *41 games owned · Level 26 · 212 achievements*
+
+---
+
+## Let's Connect
+
+[![GitHub](https://img.shields.io/badge/GitHub-shirakizuki-000?style=flat-square&logo=github)](https://github.com/shirakizuki)
+[![Steam](https://img.shields.io/badge/Steam-Czeah-171a21?style=flat-square&logo=steam)](https://steamcommunity.com/id/szm-szemaki/)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](YOUR_URL) -->
+<!-- [![Email](https://img.shields.io/badge/Email-Contact-555?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL) -->
